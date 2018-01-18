@@ -1,0 +1,1 @@
+This repository was created to train to become a better programmer thought good analisis and undestanding of the c language.
