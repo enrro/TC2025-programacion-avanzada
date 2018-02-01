@@ -7,9 +7,10 @@ sizeof(a) / sizeof(typo de dato de a) te entrega el tamaño del arreglo
 
 main()
 {
-    int a[5] = {1,2,3,4,5};
+    int a[5] = {1,50,3,4,5};
     int *pa;
     pa = a;
+    printf("%d\t", *(pa+1));
     *pa = 27;
     pa[2] = 45;
     *(pa +3) = 200;
