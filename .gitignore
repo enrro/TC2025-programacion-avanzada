@@ -1,5 +1,6 @@
 *.exe
 *.out
+tools
 
 ### VisualStudioCode ###
 .vscode/*

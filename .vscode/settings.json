@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "array": "c",
+        "hash_map": "c",
+        "hash_set": "c",
+        "initializer_list": "c",
+        "string_view": "c",
+        "utility": "c"
+    }
+}
