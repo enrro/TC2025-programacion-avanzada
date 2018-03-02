@@ -7,6 +7,8 @@
         "initializer_list": "c",
         "string_view": "c",
         "utility": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "optional": "c",
+        "system_error": "c"
     }
 }
