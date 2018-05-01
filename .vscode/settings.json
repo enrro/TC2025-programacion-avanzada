@@ -9,6 +9,7 @@
         "utility": "c",
         "stdlib.h": "c",
         "optional": "c",
-        "system_error": "c"
+        "system_error": "c",
+        "C_Cpp.intelliSenseEngine": "Tag Parser"
     }
 }
